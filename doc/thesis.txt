@@ -1,5 +1,7 @@
 #thesis
-by joris
+by joris van der veeken
+
+Title: how cold is it?
 
 0K is really cold
 
