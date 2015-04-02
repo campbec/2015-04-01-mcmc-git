@@ -1,6 +1,7 @@
 #thesis
-by joris
+by joris van der veeken
 
 0K is really cold
 
 it is the same as -273 c... 
+
